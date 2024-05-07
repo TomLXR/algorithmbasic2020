@@ -6,3 +6,6 @@
 /out/production/algorithmbasic2020/class15_practice/day2/NOTE
 /.idea/sonarlint/**/*
 /.idea/**/*
+/.classpath
+/.project
+/.settings/org.eclipse.jdt.core.prefs

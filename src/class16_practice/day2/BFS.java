@@ -80,7 +80,7 @@ public class BFS {
          Queue<Node> queue = new LinkedList<>();
          Set<Node> set = new HashSet<>();
          queue.add(start);
-         queue.add(start);
+         set.add(start);
         System.out.printf(start.value+" ");
         while(!queue.isEmpty()){
             Node current = queue.poll();
