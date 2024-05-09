@@ -1,10 +1,7 @@
-/target/production/algorithmbasic2020/**/*.class
-/out/production/algorithmbasic2020/**/*.class
+/target/**/*
+/out/**/*
 /algorithmbasic2020.iml
-/out/production/algorithmbasic2020/class44/DC3_Algorithm.pdf
-/out/production/algorithmbasic2020/class15_practice/day1/NOTE
-/out/production/algorithmbasic2020/class15_practice/day2/NOTE
-/.idea/sonarlint/**/*
+/.idea/
 /.idea/**/*
 /.classpath
 /.project
