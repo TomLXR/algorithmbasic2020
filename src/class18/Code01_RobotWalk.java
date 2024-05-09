@@ -89,6 +89,7 @@ public class Code01_RobotWalk {
 		System.out.println(ways1(5, 2, 4, 6));
 		System.out.println(ways2(5, 2, 4, 6));
 		System.out.println(ways3(5, 2, 4, 6));
+
 	}
 
 }
