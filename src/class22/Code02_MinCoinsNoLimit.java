@@ -64,7 +64,7 @@ public class Code02_MinCoinsNoLimit {
 				dp[index][rest] = dp[index + 1][rest];
 				if (rest - arr[index] >= 0 
 						&& dp[index][rest - arr[index]] != Integer.MAX_VALUE) {
-					dp[index][rest] = Math.min(dp[index][rest], dp[index][rest - arr[index]] + 1);
+					dp[index][rest] = Math.min(dp[index][rest], dp[index][rest - arr[index]] + 1); 
 				}
 			}
 		}
